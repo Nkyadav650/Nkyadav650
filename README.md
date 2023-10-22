@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nand Kamar Yadav</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
 
-- 🔭 I’m currently working on [Eidiko Systems Integerators Private Limited as an](Microservices (SpringBoot & React JS))
+- 🔭 I’m currently working on [Eidiko Systems Integerators Private Limited](Microservices (SpringBoot & React JS))
 
 - 🌱 I’m currently learning **Microservices & Kafka**
 
